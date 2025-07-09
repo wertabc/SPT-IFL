@@ -4,9 +4,9 @@ SPT-IFL innovatively constructs a multi-modal deep learning framework for gene s
 
 1. Multi-modal architecture for agro-medical integration: Integrating mammalian (human, mouse) and plant ncRNA data, developing a fusion model containing 86-dimensional manually selected sequence modalities (k-mer, GC content, etc.) and deep representation, and improving the recognition accuracy by 12%-13% compared with traditional methods.
 
-2.Stable learning strategy: innovatively designed weighted loss function system, while optimizing the relationship between feature dependence and sample, improves the generalization ability of the model.
+2. Stable learning strategy: innovatively designed weighted loss function system, while optimizing the relationship between feature dependence and sample, improves the generalization ability of the model.
 
-3.Domain adaptation AI dialogue engine: accurately understand the terminology.
+3. Domain adaptation AI dialogue engine: accurately understand the terminology.
 
 4. Implementation of dual-scenario engineering: deployed as an online service platform (http://www.sptifl-ncrnapre.com/).
 
